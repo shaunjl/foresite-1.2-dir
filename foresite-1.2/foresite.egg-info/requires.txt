@@ -1,0 +1,2 @@
+rdflib<3a
+lxml
